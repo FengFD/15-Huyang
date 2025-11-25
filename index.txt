@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>作业首页</title>
+</head>
+<body>
+    <h1>作业列表</h1>
+    <!-- 链接到你的作业文件，href填实际文件名，文字可自定义 -->
+    <a href="./3d-wandering.html" target="_blank">HW2（3D漫游）</a><br>
+    <a href="./hw3.html" target="_blank">HW3（作业3）</a>
+</body>
+</html>
